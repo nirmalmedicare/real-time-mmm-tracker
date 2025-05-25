@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nirmal/Desktop/6Months/models/mlruns/0/d8f6da881c6e4b099f1a81257e11adb5/artifacts
+end_time: 1748105194354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8f6da881c6e4b099f1a81257e11adb5
+run_name: lyrical-jay-489
+run_uuid: d8f6da881c6e4b099f1a81257e11adb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748105192835
+status: 3
+tags: []
+user_id: nirmal
